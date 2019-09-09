@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074626874185",
+    "firebase_url": "https://fir-ml-kit-acb3a.firebaseio.com",
+    "project_id": "fir-ml-kit-acb3a",
+    "storage_bucket": "fir-ml-kit-acb3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074626874185:android:582e35fb1bac1bf9516898",
+        "android_client_info": {
+          "package_name": "com.vit.demomlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074626874185-sg4or20np2o1pl77oo3frvomnqtho9j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vit.demomlkit",
+            "certificate_hash": "eb225b0b3d6dcf9285be63c1ecda6c9c57f552d4"
+          }
+        },
+        {
+          "client_id": "1074626874185-h6bj8spb5ju63f2gk90tgg6v1r3779qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjlrm_qH7VS-h3vv_f2osUP2HlsQW9pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074626874185-h6bj8spb5ju63f2gk90tgg6v1r3779qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
